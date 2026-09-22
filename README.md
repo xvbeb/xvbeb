@@ -52,5 +52,5 @@ testing and integrations.
 
 ## Contact
 
-Telegram: t.me/izmenen
+Telegram: https://www.t.me/izmenen
 LinkedIn: https://www.linkedin.com/in/xvbeb/
