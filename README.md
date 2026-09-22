@@ -1,4 +1,4 @@
-# Hi, I'm Mykola 👋
+# Hi, I'm Mykyta 👋
 
 Python developer focused on backend development, Odoo and automation.
 
